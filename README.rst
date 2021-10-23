@@ -14,11 +14,9 @@ phenotron
         :alt: Documentation Status
 
 
-
-
 The newest prime of the transformers.
 
-A python package to transoform OMOP to Phenopackets.
+A python package to transform [OMOP Common Data Model](https://www.ohdsi.org/data-standardization/the-common-data-model/) to [Phenopackets](https://phenopacket-schema.readthedocs.io/en/v2/).
 
 
 * Free software: MIT license
@@ -28,11 +26,7 @@ A python package to transoform OMOP to Phenopackets.
 Features
 --------
 
-* Data Cleaning from OMOP
-
-* Transform LOINC Values to Human Phenotype Ontology
-
-* Prepare Phhenopackets
+* TBD
 
 Credits
 -------
