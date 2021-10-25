@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+
+# Github
+.github/
+
 # Distribution / packaging
 .Python
 env/
@@ -104,3 +108,4 @@ ENV/
 # IDE settings
 .vscode/
 .idea/
+.editorconfig

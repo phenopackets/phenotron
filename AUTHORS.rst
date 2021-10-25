@@ -2,12 +2,7 @@
 Credits
 =======
 
-Development Lead
-----------------
-
-* Michael Gargano <michael.gargano@jax.org>
-
 Contributors
 ------------
-
-None yet. Why not be the first?
+* Michael Gargano <michael.gargano@jax.org>
+* Tiffany Callahan <callahantiff@gmail.com>
