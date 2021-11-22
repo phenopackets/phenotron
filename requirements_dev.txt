@@ -1,0 +1,14 @@
+pip
+bump2version
+wheel
+watchdog
+flake8
+tox
+coverage
+Sphinx
+twine
+Click
+black
+omop2obo
+loinchpo
+phenopackets
