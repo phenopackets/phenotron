@@ -9,6 +9,6 @@ Sphinx
 twine
 Click
 black
-omop2obo==1.0.0
+omop2obo
 loinchpo
 phenopackets
