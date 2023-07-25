@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "phenotron"
+version = "0.1.0"
+description = ""
+authors = ["Michael Gargano <Michael.Gargano@jax.org>"]
+readme = "README.md"
+keywords = ["phenopackets", "hpo", "library", "cli", "transform"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+click = "^8.1.6"
+hpo-toolkit = "^0.2.0"
+pyphetools = "^0.4.8"
+
+[tool.poetry.group.test.dependencies]
+pytest = "^7.4.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+phenotron = "phenotron.cli:cli"
